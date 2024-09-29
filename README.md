@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Implicitintent”.
-Developed by: George Paul Tony.C
-Registeration Number :  212222040043
+Developed by: M SATHISH KUMAR
+Registeration Number :  21222204015O
 */
 ```
 
